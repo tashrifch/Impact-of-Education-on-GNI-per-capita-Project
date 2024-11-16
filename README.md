@@ -1,4 +1,4 @@
-# Income-Inequality-by-Country-Project
+# Impact-of-Education-on-GNI-per-capita-Project
 
 
 In this project I aim to see how education impacts GNI per capitia of nations around the world, so that govenments of devoloping nations can understand just how important education is in increasing their nation's GNI per capitia. 
