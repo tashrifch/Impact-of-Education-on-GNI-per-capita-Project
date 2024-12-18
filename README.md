@@ -26,7 +26,7 @@ The project aims to analyze how educational attainment influences economic outco
 The project aims to provide actionable insights into the impact of education on economic disparities. Key findings and visualizations are highlighted in the notebook.
 
 
-
+###---------------------------------------------------------------------------------
 All the data cleaning and analysis was done in google colab. Then the result was visualized in Tableau.  
 
 The Tableau Visualizaion of my results are in : 
