@@ -23,7 +23,7 @@ The project aims to analyze how educational attainment influences economic outco
 
 ### Results
 
-The project aims to provide actionable insights into the impact of education on economic disparities. Key findings and visualizations are highlighted in the notebook.
+The analysis identified a strong relationship between the dependent variable, log(gross national income per capita), and the independent variables: mean/expected years of education and life expectancy. This suggests a strong nonlinear relationship between GNI per capita and the independent variables..
 
 
 ### --------------------------------------------------------------------------------------------------
